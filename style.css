@@ -1,0 +1,19 @@
+/* /* ol {
+    box-sizing: border-box;
+    min-height: 100vh;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    /* justify-content: center; 
+    align-items: center;
+    font-size: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+  } */
+
+  ol{
+      align-items: center;
+      font-size: 200%;
+      /* padding-left: 10em; */
+      /* padding-right: 10em; */
+  } 
